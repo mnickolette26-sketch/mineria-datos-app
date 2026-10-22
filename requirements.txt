@@ -1,0 +1,8 @@
+#librerías
+
+streamlit
+pandas
+numpy
+scikit-learn
+mlxtend
+plotly
